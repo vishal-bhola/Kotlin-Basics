@@ -8,5 +8,5 @@ https://kotlinlang.org/
 
 ## Requirements:
 
-- JavaSDK/JDK8
+- Java JDK - Version 8 or JDK8
 - Code-Editor: Any code-editor of your choice like VSCode, IntelliJ etc.

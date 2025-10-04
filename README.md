@@ -5,3 +5,8 @@ Kotlin Basics introduces you to the core features of the Kotlin programming lang
 # Official Website Link:
 
 https://kotlinlang.org/
+
+## Requirements:
+
+- Java JDK - Version 8 or JDK8
+- Code-Editor: Any code-editor of your choice like VSCode, IntelliJ etc.

@@ -10,3 +10,8 @@ https://kotlinlang.org/
 
 - Java JDK - Version 8 or JDK8
 - Code-Editor: Any code-editor of your choice like VSCode, IntelliJ etc.
+
+## Note
+
+- For IntelliJ, Kotlin is supported in-built. No major changes to be done.
+- Fo VS Code, need to install extensions.
